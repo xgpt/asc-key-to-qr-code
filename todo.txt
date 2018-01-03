@@ -1,0 +1,3 @@
+fix MD in protocol file.
+add an incrementally versioned .zip of needed packages to git 
+make a "release" .zip
