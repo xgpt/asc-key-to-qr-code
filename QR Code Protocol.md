@@ -15,7 +15,7 @@ o	gpg
 
 
 
-How to split a large file into multiple QR codes for paper backups.
+##How to split a large file into multiple QR codes for paper backups.
 1.	Consider printing the file entirely in addition to the following instructions. Such as SSH keys or GPG/OpenPGP keys. OCR is getting better every day, and painstaking recovery is possible by hand if no such software can be attained.
 2.	Symmetrically “encrypt” your file using gpg. This creates a very hardy file that is encoded using standard and printable encodings that are resilient to whitespace that might be introduced in the decoding process. Additionally this is a very standard, widespread, and likely “future-proof” method that both compresses the file entered slightly, as well as encodes it into a printable/scan-able/translatable/simplistic representation of the file. 
 a.	gpg -c foo -o foo.asc
@@ -33,7 +33,7 @@ c.	Print out page numbers whenever possible, or hand label the page numbers as a
 5.	TEST scanning it back in. Make notes on the first page of “exactly” how to decrypt the file right there on an attached first page
 6.	Staple the thing and put it in a nice envelope. Try not to fold it if possible, even with error correction, try to be the archivist your future desperate self would appreciate!
 
-How to scan these QR codes and recreate your file!
+##How to scan these QR codes and recreate your file!
 
 1.	Read the instructions on the first page. If you were smart, you would have attached some.
 2.	Scan the QR codes into a computer using a cell phone or preferably a flatbed scanner. 
