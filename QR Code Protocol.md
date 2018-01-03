@@ -48,5 +48,4 @@ b.	Alternately, try to use the qr2asc.sh script as found above.
 a.	Feed this into GPG as such 
 i.	“cat recompile.txt | gpg”
 1.	Type in the password you were thoughtful enough to have put in the margins of your printout, or at least in your instructions.
-5.	Enjoy. Hopefully you’ve recovered your file. If not, hopefully you can OCR the printed out file from the first step in the creation instructions. 
-
+5.	Enjoy. Hopefully you’ve recovered your file. If not, hopefully you can OCR the printed out file from the first step in the creation instructions.
